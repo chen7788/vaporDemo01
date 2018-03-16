@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <img src="https://cloud.githubusercontent.com/assets/1977704/25426816/a9d40530-2a70-11e7-9758-8a0da6341035.png" width="320" alt="Web Template">
     <br>
@@ -18,3 +19,6 @@
         <img src="http://img.shields.io/badge/swift-4-brightgreen.svg" alt="Swift 4">
     </a>
 </p>
+=======
+# vaporDemo1
+>>>>>>> 4b5e96ca63e506fc0635626ce6c19c6ae81b4e19
