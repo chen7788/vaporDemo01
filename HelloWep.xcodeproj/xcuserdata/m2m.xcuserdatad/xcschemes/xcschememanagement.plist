@@ -7,12 +7,12 @@
 		<key>BCryptPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>15</integer>
 		</dict>
 		<key>BitsPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>17</integer>
 		</dict>
 		<key>CTLS.xcscheme</key>
 		<dict>
@@ -27,7 +27,7 @@
 		<key>CorePackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>16</integer>
 		</dict>
 		<key>CryptoPackageDescription.xcscheme</key>
 		<dict>
@@ -37,7 +37,7 @@
 		<key>DebuggingPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>18</integer>
 		</dict>
 		<key>EnginePackageDescription.xcscheme</key>
 		<dict>
@@ -52,7 +52,7 @@
 		<key>HelloWepPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>4</integer>
 		</dict>
 		<key>HelloWepPackageTests.xcscheme</key>
 		<dict>
@@ -67,7 +67,7 @@
 		<key>LeafPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>1</integer>
 		</dict>
 		<key>LeafProviderPackageDescription.xcscheme</key>
 		<dict>
@@ -87,7 +87,7 @@
 		<key>RandomPackageDescription.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>14</integer>
 		</dict>
 		<key>RoutingPackageDescription.xcscheme</key>
 		<dict>
@@ -97,7 +97,7 @@
 		<key>Run.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>19</integer>
 		</dict>
 		<key>SocketsPackageDescription.xcscheme</key>
 		<dict>
