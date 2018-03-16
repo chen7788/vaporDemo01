@@ -1,5 +1,7 @@
 import App
 
+
+
 /// We have isolated all of our App's logic into
 /// the App module because it makes our app
 /// more testable.
@@ -16,10 +18,17 @@ import App
 ///
 /// .run() runs the Droplet's commands,
 /// if no command is given, it will default to "serve"
+
 let config = try Config()
 try config.setup()
+config.environment = .development
+
 
 let drop = try Droplet(config)
+
 try drop.setup()
+
+let port = drop.config["server", "port"]?.int
+print("prot:\(String(describing: port))")
 
 try drop.run()
